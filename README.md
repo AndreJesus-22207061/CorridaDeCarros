@@ -4,8 +4,7 @@ Projeto no âmbito da disciplina de Sistemas Operativos
 
 Criadores: André Jesus / Tomás Nave
 
-![corrida](https://github.com/TomasNave-a22208623/Corrida-de-Carros/assets/127102331/8204a93b-0ea3-44f8-a7ca-dd420b45df1e)
-
+![for](https://github.com/TomasNave-a22208623/Corrida-de-Carros/assets/127102331/b552b21e-dc09-4cf9-b899-bc9aacbff405)
 
 Objetivo:
 O objetivo deste projeto é criar uma aplicação em linguagem de programação C que utilize os conceitos de sistemas operativos para criar uma simulação de uma corrida
