@@ -7,6 +7,7 @@ Criadores: André Jesus / Tomás Nave
 ![for](https://github.com/TomasNave-a22208623/Corrida-de-Carros/assets/127102331/b552b21e-dc09-4cf9-b899-bc9aacbff405)
 
 Objetivo:
+
 O objetivo deste projeto é criar uma aplicação em linguagem de programação C que utilize os conceitos de sistemas operativos para criar uma simulação de uma corrida
 O objetivo desta aplicação é desenvolver um servidor que realize a transmissão de telecomandose a receção de telemetria para um carro de corrida durante uma prova desportiva. 
 A prova desportiva consiste num percurso de uma pista dividida em 3 setores, ao longo dos quaissão efetuadas um total de 10 voltas.
